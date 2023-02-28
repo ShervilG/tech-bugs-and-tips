@@ -12,3 +12,13 @@ Gives a list of docker images in ur local machine.
 docker run -i -t <base-image-name> /bin/bash
 ```
 ***
+### Docker Commit
+Sometimes after installing dependencies in container, we can commit a snapshot of it.
+- First check the docker container history
+```
+docker ps -a
+```
+- Choose the container Id and do a commit
+```
+docker commit <container-id> <new-name-of-image>
+```
