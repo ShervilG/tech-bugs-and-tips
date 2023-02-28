@@ -22,3 +22,22 @@ docker ps -a
 ```
 docker commit <container-id> <new-name-of-image>
 ```
+
+### Override Env Variable
+```
+docker run -e "ARG1=test1" java-params
+```
+Where DockerFile is:
+```
+FROM linux/java
+
+ENV ARG1=default
+ENV ARG2=default2
+
+WORKDIR /app
+COPY . /app
+
+RUN javac DockerTestParams.java
+ENTRYPOINT java DockerTestParams ${ARG1} ${ARG2}
+```
+>**_Note: ARGS should be passed while builder, enviroment variables are passed during running and stay/can change during runtime._**
