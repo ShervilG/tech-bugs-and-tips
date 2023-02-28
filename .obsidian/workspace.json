@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e5230ec999be991f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker And K8/DockerBasics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Docker And K8/DockerBasics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Docker And K8/DockerBasics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Docker And K8/DockerBasics.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a59b7bda784918",
+  "active": "b35b5198f35284e3",
   "lastOpenFiles": [
-    "2023-02-26.md",
-    "README.md"
+    "README.md",
+    "Docker And K8/DockerBasics.md",
+    "Docker And K8",
+    "2023-02-26.md"
   ]
 }
