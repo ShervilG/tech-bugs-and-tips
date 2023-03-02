@@ -27,3 +27,7 @@ ENTRYPOINT [ "java", "DockerTest" ]
 docker build -t java-simple .
 docker run java-simple
 ```
+
+```
+bash docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' b01d8028b33c
+```

@@ -41,3 +41,18 @@ RUN javac DockerTestParams.java
 ENTRYPOINT java DockerTestParams ${ARG1} ${ARG2}
 ```
 >**_Note: ARGS should be passed while builder, enviroment variables are passed during running and stay/can change during runtime._**
+***
+### Exposing Ports
+> **_Note: only for documenting_**
+- Use the EXPOSE command in Dockerfile (by default it's TCP use /udp after port number for udp)
+```
+EXPOSE 8080
+```
+- Use the **–expose** flag at runtime to expose a port
+```
+docker run --expose=8080 <image-name>
+```
+### Use -p command and runtime for port mapping
+```
+docker run -p <host-port>:<container-port> <image-name>
+```
