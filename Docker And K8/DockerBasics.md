@@ -52,6 +52,7 @@ EXPOSE 8080
 ```
 docker run --expose=8080 <image-name>
 ```
+***
 ### Use -p command and runtime for port mapping
 ```
 docker run -p <host-port>:<container-port> <image-name>
