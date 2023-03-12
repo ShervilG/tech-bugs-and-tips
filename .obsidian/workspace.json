@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker And K8/DockerBasics.md",
+                "file": "Docker And K8/SimpleJavaCode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3174b4e047bba4af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "8cf7c732c6688a0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kafka And RabbitMQ/Kafka.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker And K8/DockerBasics.md",
+                "file": "Kafka And RabbitMQ/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker And K8/DockerBasics.md",
+                "file": "Kafka And RabbitMQ/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker And K8/DockerBasics.md"
+                "file": "Kafka And RabbitMQ/Kafka.md"
               }
             }
           }
@@ -146,11 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf401152bd703ac4",
+  "active": "8cf7c732c6688a0c",
   "lastOpenFiles": [
-    "Docker And K8/SimpleJavaCode.md",
-    "Docker And K8/DockerBasics.md",
+    "Kafka And RabbitMQ/Kafka.md",
+    "Kafka And RabbitMQ",
     "Docker And K8/DockerCommonIssues.md",
+    "Docker And K8/DockerBasics.md",
+    "Docker And K8/SimpleJavaCode.md",
     "README.md",
     "Docker And K8",
     "2023-02-26.md"
