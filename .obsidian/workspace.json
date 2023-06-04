@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8cc9808ba9739bbc",
+            "id": "1425fbd9c75f2527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7b6ba3aa1f96f063",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redis Shiz/Redis-Channels.md"
+              }
             }
           }
         ]
@@ -138,15 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b35b5198f35284e3",
+  "active": "1425fbd9c75f2527",
   "lastOpenFiles": [
+    "Redis Shiz/Redis-Channels.md",
+    "Kafka And RabbitMQ/Kafka.md",
+    "Redis Shiz",
     "Lessons Learnt from Outage And Shiz",
     "Docker And K8/DockerCommonIssues.md",
     "Docker And K8/KubernetesBasics.md",
     "Untitled.md",
     "Pasted image 20230318132924.png",
     "Pasted image 20230318131706.png",
-    "Kafka And RabbitMQ/Kafka.md",
     "Kafka And RabbitMQ",
     "Docker And K8/DockerBasics.md",
     "Docker And K8/SimpleJavaCode.md",
