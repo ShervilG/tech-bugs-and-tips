@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "System Design/Metrics Collection And Alerting System.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "System Design/Metrics Collection And Alerting System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "System Design/Metrics Collection And Alerting System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md"
+                "file": "System Design/Metrics Collection And Alerting System.md"
               }
             }
           }
@@ -157,6 +157,10 @@
   "active": "1425fbd9c75f2527",
   "lastOpenFiles": [
     "Redis Shiz/Redis-Channels.md",
+    "System Design/Metrics Collection And Alerting System.md",
+    "Java Shiz/Collections.md",
+    "System Design",
+    "Java Shiz",
     "Kafka And RabbitMQ/Kafka.md",
     "Redis Shiz",
     "Lessons Learnt from Outage And Shiz",

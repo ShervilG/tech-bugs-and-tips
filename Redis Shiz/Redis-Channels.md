@@ -11,4 +11,3 @@ Used as pub sub queues, where a single message is pushed to multiple subscribers
 - A Redis instance with GBs of memory can handle millions of channels easily.
 - Redis' Pub/Sub exhibits _at-most-once_ message delivery semantics.
 - Message size limit can be in 10-20MBs
----
