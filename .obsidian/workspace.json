@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5804fb535785b194",
+        "id": "9417e03a3c6d2bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "1425fbd9c75f2527",
+            "id": "400e1842f766226a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,25 +154,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1425fbd9c75f2527",
+  "active": "400e1842f766226a",
   "lastOpenFiles": [
-    "Redis Shiz/Redis-Channels.md",
-    "System Design/Metrics Collection And Alerting System.md",
     "Java Shiz/Collections.md",
-    "System Design",
-    "Java Shiz",
-    "Kafka And RabbitMQ/Kafka.md",
-    "Redis Shiz",
-    "Lessons Learnt from Outage And Shiz",
     "Docker And K8/DockerCommonIssues.md",
     "Docker And K8/KubernetesBasics.md",
+    "Docker And K8/SimpleJavaCode.md",
+    "Redis Shiz/Redis-Channels.md",
+    "README.md",
+    "Untitled.canvas",
+    "Kafka And RabbitMQ/Kafka.md",
+    "System Design/Metrics Collection And Alerting System.md",
+    "System Design",
+    "Java Shiz",
+    "Redis Shiz",
+    "Lessons Learnt from Outage And Shiz",
     "Untitled.md",
     "Pasted image 20230318132924.png",
     "Pasted image 20230318131706.png",
     "Kafka And RabbitMQ",
     "Docker And K8/DockerBasics.md",
-    "Docker And K8/SimpleJavaCode.md",
-    "README.md",
     "Docker And K8",
     "2023-02-26.md"
   ]
