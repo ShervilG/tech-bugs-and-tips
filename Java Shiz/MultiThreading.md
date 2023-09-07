@@ -1,7 +1,6 @@
 #java #threading
 
 # Basics
----
 It's better not to create and manage lifecycle of threads manually, instead use a ThreadPool.
 ## Types
 - **newFixedThreadPool:** A fixed-size thread pool creates threads as tasks are submitted, up to maximum pool size, and then attempts to keep the pool size constant (adding new threads if a thread dies due to an unexpected exception).
@@ -16,3 +15,9 @@ ExecutorService spawns NonDaemon threads by default. We can also control the max
 > (Daemon threads are the ones that exit when the main thread exits)
 
 Check out using ExecutorService to send [SSEe in Spring](Server%20Sent%20Events%20In%20Spring).
+# ConcurrentMap
+One of the important atomic operation of concurrentMap is -> *computeIfAbsent()*
+
+ >This entire process is atomic, meaning that there are no race conditions where multiple threads could insert conflicting values for the same key simultaneously. If two threads attempt to `computeIfAbsent` for the same key at the same time, only one of them will succeed in computing and inserting the value while the other will wait and will see the latest computed value/previous value whichever was present earlier.
+ 
+ 
