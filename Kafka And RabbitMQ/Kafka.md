@@ -3,7 +3,7 @@
 ---
 - Topics -> Partition -> Offset (here the message is accessed)
 - Each Consumer group can read from same topic
-- Each consumer from a consumer group can read from one partition only and one partition is assigned to one consumer only
+- Each consumer from a consumer group can read from one partition only and one partition is assigned to one consumer only (**in case the number of consumers is less than the number of partitions, then one consumer can consume from multiple partitions, kafka takes care of this)**
 - Each message in a topic can be in one partition only
 ### What if A consumer goes down ?
 ---
