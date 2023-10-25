@@ -47,4 +47,25 @@ public class EventData {
 }
 ```
 
-This can be tested via **postman**.
+This can be tested via **postman** or via a vanilla jsCode.
+``` js
+const url = "http://localhost:8080/stream-data";
+const eventSource = new EventSource(url);
+
+eventSource.onmessage = (event) => {
+	const data =JSON.parse(event.data);
+	const body = document.getElementById("id1");
+	if (body == null) {
+		return;
+	}
+	
+	const childDiv = document.createElement("div");
+	childDiv.innerHTML = `${event.data}`;
+	body.appendChild(childDiv);
+};
+
+eventSource.onerror = (error) => {
+	console.log(error);
+	eventSource.close();
+};
+```

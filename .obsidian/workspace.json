@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46ea60567ba9e635",
+        "id": "8c14a96474e376a8",
         "type": "tabs",
         "children": [
           {
-            "id": "fd40383a03181229",
+            "id": "7cb0f56344dbc330",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redis Shiz/Redis-Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redis Shiz/Redis-Channels.md"
+              }
+            }
+          },
+          {
+            "id": "ca400f307b0dc4bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -146,21 +164,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd40383a03181229",
+  "active": "7cb0f56344dbc330",
   "lastOpenFiles": [
-    "Kafka And RabbitMQ/Kafka.md",
-    "All About LLMs/Kafka.md",
-    "System Design/ACourse Notes/Foundational Topics.md",
-    "Docker And K8/DockerBasics.md",
+    "System Design/ACourse Notes/WebSockets.md",
+    "System Design/ACourse Notes/NoSQL DBs.md",
+    "Life-Lessons/Arpit-Shervil-1-1.md",
+    "Life-Lessons",
     "Java Shiz/Server Sent Events In Spring.md",
+    "System Design/ACourse Notes/Foundational Topics.md",
+    "Kafka And RabbitMQ/Kafka.md",
+    "Git Important.md",
+    "Docker And K8/SimpleJavaCode.md",
+    "All About LLMs/Kafka.md",
+    "Docker And K8/DockerBasics.md",
     "System Design/Metrics Collection And Alerting System.md",
     "Java Shiz/OOPs.md",
     "System Design/ACourse Notes",
     "Java Shiz/MultiThreading.md",
     "Redis Shiz/Redis-Channels.md",
-    "Git Important.md",
     "Java Shiz/Collections.md",
-    "Docker And K8/SimpleJavaCode.md",
     "Server.md",
     "All About LLMs",
     "Docker And K8/KubernetesBasics.md",
