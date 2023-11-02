@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "Java Shiz/Server Sent Events In Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "Java Shiz/Server Sent Events In Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md",
+                "file": "Java Shiz/Server Sent Events In Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis Shiz/Redis-Channels.md"
+                "file": "Java Shiz/Server Sent Events In Spring.md"
               }
             }
           },
@@ -166,22 +166,22 @@
   },
   "active": "7cb0f56344dbc330",
   "lastOpenFiles": [
+    "Docker And K8/DockerBasics.md",
+    "Java Shiz/Server Sent Events In Spring.md",
+    "Redis Shiz/Redis-Channels.md",
     "System Design/ACourse Notes/WebSockets.md",
     "System Design/ACourse Notes/NoSQL DBs.md",
     "Life-Lessons/Arpit-Shervil-1-1.md",
     "Life-Lessons",
-    "Java Shiz/Server Sent Events In Spring.md",
     "System Design/ACourse Notes/Foundational Topics.md",
     "Kafka And RabbitMQ/Kafka.md",
     "Git Important.md",
     "Docker And K8/SimpleJavaCode.md",
     "All About LLMs/Kafka.md",
-    "Docker And K8/DockerBasics.md",
     "System Design/Metrics Collection And Alerting System.md",
     "Java Shiz/OOPs.md",
     "System Design/ACourse Notes",
     "Java Shiz/MultiThreading.md",
-    "Redis Shiz/Redis-Channels.md",
     "Java Shiz/Collections.md",
     "Server.md",
     "All About LLMs",
